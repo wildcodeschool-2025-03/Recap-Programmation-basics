@@ -282,5 +282,4 @@ Si vous voulez en savoir plus, voici un article qui en parle : [Les 6 falsy valu
 
 :link: _Liens utiles_
 
--   [Programming Basics [FR] - Google Slides](https://docs.google.com/presentation/d/1jYWXNQrF-mhWdVcoCMBSyjueCE77Sg4ZTu8GXh06rdU/edit#slide=id.p)
 -   [Programming Basics | Wild code school](https://wildcodeschool.github.io/workshop-programming-basics/)
